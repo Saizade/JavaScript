@@ -17,3 +17,22 @@ let somenumber = 33
 let stringnumber = String(somenumber)
 console.log(stringnumber)
 console.log(typeof stringnumber)
+
+
+
+
+// This below operation makes the value negative
+let value = 5
+let negvalue = -value
+console.log(negvalue)
+
+// To add a string we do following operation
+let str1 = "Sai"
+let str2 = " Zade"
+let str3 = str1 + str2
+console.log(str3)
+
+// operator
+let gamebuilder = 100
+gamebuilder++
+console.log(gamebuilder)
